@@ -1,6 +1,6 @@
 https://slack-clone-7f6e0.web.app <- Firebase App Deployed URL
 
-Made with ♥️ by Ayush Goyal
+Made with ♥️  by Ayush Goyal
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
